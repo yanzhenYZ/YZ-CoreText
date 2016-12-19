@@ -1,0 +1,15 @@
+//
+//  图文混排-Prefix.pch
+//  图文混排
+//
+//  Created by yanzhen on 16/11/2.
+//  Copyright © 2016年 v2tech. All rights reserved.
+//
+
+#ifndef _____Prefix_pch
+#define _____Prefix_pch
+
+#import "NSObject+YZExtent.h"
+#import "GeneralMacro.h"
+
+#endif /* _____Prefix_pch */
